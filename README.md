@@ -57,7 +57,7 @@ Se você está interessado(a) em colaborar em projetos, tirar dúvidas ou saber 
 - E-mail: [thamiresribeirocezar@gmail.com](mailto:thamiresribeirocezar@gmail.com)
 - Telefone: [+51 9 9451-7680](tel:+519451-7680)
 - GitHub: [github.com/Thamireslopescz](https://github.com/Thamireslopescz)
-- Confira o projeto em produção no Vercel: [Link do Projeto](https://thamireslopescz.vercel.app/?vercelToolbarCode=R8PH42r_QMaI5VB#s-experience)
+- Confira o projeto em produção no Vercel: [Link do Projeto](https://thamireslopescz.vercel.app/?vercelToolbarCode=R8PH42r_QMaI5VB)
 
 Obrigada por visitar meu portfólio! Estou animada para colaborar em projetos desafiadores e ajudar a criar produtos digitais excepcionais que se destaquem no mercado. Vamos trabalhar juntos para construir algo incrível!
 
